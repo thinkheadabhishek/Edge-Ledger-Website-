@@ -1,0 +1,63 @@
+.text-green{
+    color: green;
+}
+.text-white{
+    color: aliceblue;
+}
+.bg-dark{
+    background-color: #333;
+}
+.bg-light{
+    background-color: aliceblue;
+}
+.bg-green{
+    background-color: green;
+}
+.btn{
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 1rem;
+    font-size: 20px;
+}
+
+.btn:hover{
+    opacity: 0.9;
+}
+
+.btn-primary{
+    background-color: green;
+    color: aliceblue;
+}
+
+.btn-blog{
+    background-color: rgb(22, 133, 224);
+    border: 1px solid white;
+    color: aliceblue;
+    width: fit-content;
+}
+
+.btn-dark{
+    background-color: rgb(4, 114, 4);
+    border: 1px solid white;
+    color: aliceblue;
+    width: fit-content;
+}
+
+.font-larger{
+    font-size: 55px;
+}
+
+.font-large{
+    font-size: 40px;
+}
+
+.font-normal{
+    font-size: 25px;
+}
+
+.font-small{
+    font-size: 20px;
+}
